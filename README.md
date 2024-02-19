@@ -6,10 +6,10 @@
 
 ### Extensiones recomendadas
 
--   Live server
--   Prettier
--   Git Graph
--   Git blame
+- Live server
+- Prettier
+- Git Graph
+- Git blame
 
 ## Node JS
 
@@ -33,3 +33,5 @@
 ## Github
 
 [Organización FSDSTR0224](https://github.com/orgs/FSD0224STR/)
+
+vmxrubio
