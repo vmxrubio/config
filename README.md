@@ -8,3 +8,4 @@
 
 -   Prettier
 -   Git Graph
+-   Git blame
