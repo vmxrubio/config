@@ -33,3 +33,5 @@
 ## Github
 
 [Organización FSDSTR0224](https://github.com/orgs/FSD0224STR/)
+
+jgalobart
